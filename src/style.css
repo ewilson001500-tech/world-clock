@@ -63,6 +63,13 @@ select {
   vertical-align: middle;
 }
 
+.home {
+  font-size: 20px;
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.068);
+  padding: 5px;
+  border-radius: 5px;
+}
+
 footer {
   text-align: center;
   color: #484d51d7;
